@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgb(80, 108, 137);
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+header{
+	background: url("http://goo.gl/WsXrML");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	text-align: center;
+	color: white;
+}
+
+.headerimg{
+	height:200px;
+	width: 200px;
+	margin: 40px 0px 0px 0px;
+	border: 6px solid white;
+	border-radius: 20%;
+}
+
+#title{
+	font-size: 70px;
+}
+
+ul{
+	padding: 10px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+li{
+	display: inline;
+	margin: 0px 20px 0px 20px;
+}
+
+article{
+	max-width: 700px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+footer{
+	text-align: center;
+	background-color: rgba(0,0,0,0.5);
+
+}
+
+.weblinks{
+	display: inline;
+	height: 80px;
+	width: 80px;
+	margin: 5px 20px 5px 20px;
+}
+
