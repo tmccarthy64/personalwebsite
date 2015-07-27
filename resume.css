@@ -1,0 +1,20 @@
+h1{
+	font-size: 50px;
+	text-align: center;
+}
+
+.lang{
+	background-color: rgb(80, 108, 137);
+}
+
+.langli{
+	display: block;
+}
+
+div{
+	border-bottom: 1px solid black;
+	max-width: 600px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 400px;
+}
