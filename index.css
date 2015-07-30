@@ -1,7 +1,15 @@
 #hello{
 	text-align: center;
+	font-size: 50px;
 }
 
 p{
 	text-indent: 20px;
+	font-size: 20px;
+	text-align: left;
+}
+
+article{
+	font-family: 'Rufina', serif;
+	text-align: center;
 }
