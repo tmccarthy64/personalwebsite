@@ -1,7 +1,14 @@
 .archive{
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.75);
 	float: left;
-	position: relative;
-	width: 50px;
-	height: 100px;
+	width: 200px;
+	height: 1000px;
+	margin-top: -16px;
+	color: white;
+	font-family: 'Rufina', serif;
+}
+
+#menuheader{
+	text-align: center;
+	text-decoration: underline;
 }
