@@ -1,13 +1,7 @@
-#header{
-	font-size: 50px;
-	text-align: center;
-	text-decoration: underline;
-}
-
 div{
+	margin: auto;
 	border-bottom: 1px solid black;
-	max-width: 600px;
-	margin-top: 30px;
+	width: 40%;
 	margin-bottom: 30px;
-	margin-left: 400px;
+	margin-top: 30px;
 }
