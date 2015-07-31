@@ -1,9 +1,10 @@
 body{
-	margin: 0;
+	margin: auto;
 	padding: 0;
 	border: 0;
 	font-family: 'Open Sans', sans-serif;
 	background-color: rgb(80, 108, 137);
+	width: 100%;
 }
 
 a{
