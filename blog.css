@@ -20,6 +20,6 @@ article{
 	border-radius: 5%;
 	margin: auto;
 	width: 60%;
-	height: 100%;
+	max-height: 500px;
 	padding: 20px;
 }
