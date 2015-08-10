@@ -12,4 +12,7 @@ p{
 article{
 	font-family: 'Rufina', serif;
 	text-align: center;
+	margin: auto;
+	width: 60%;
+	margin-bottom: 50px;
 }
