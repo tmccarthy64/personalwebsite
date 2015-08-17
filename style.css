@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:500);
+
 body{
 	margin: auto;
 	padding: 0;
@@ -13,7 +15,7 @@ a{
 }
 
 header{
-	background: url("http://goo.gl/WsXrML");
+	background: url("http://goo.gl/ddTTb4");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
@@ -31,11 +33,12 @@ header{
 
 #title{
 	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
 }
 
 ul{
 	padding: 10px;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.75);
 }
 
 li:hover{
